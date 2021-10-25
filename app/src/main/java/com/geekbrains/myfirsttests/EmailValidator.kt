@@ -4,6 +4,7 @@ import android.text.Editable
 import android.text.TextWatcher
 
 import java.util.regex.Pattern
+import kotlin.math.pow
 
 class EmailValidator : TextWatcher {
 
